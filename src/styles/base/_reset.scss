@@ -7,21 +7,21 @@ body {
 
 .light {
     .text {
-
+        color: $dark-900;
     }
 
     .background {
-
-    };
+        background-color: $dark-000;
+    }
 
 }
 
 .dark {
     .text {
-
+        color: $white;
     }
 
     .background {
-
-    };
+        background-color: $dark-700;
+    }
 }
